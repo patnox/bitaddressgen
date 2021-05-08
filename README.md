@@ -29,3 +29,10 @@ END USER NOTES:
  5) BIP38 most likely will not work on mobile devices due to hardware limitations.
 
 
+ DEVELOPER NOTES:
+-----------------
+
+1) $ npm install
+
+2) $ grunt
+
